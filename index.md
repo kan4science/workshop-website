@@ -3,15 +3,22 @@ layout: default
 title:  Kolmogorov-Arnold Networks for Scientific Discovery
 ---
 
-# Workshop Title
+# Kolmogorov-Arnold Networks for Scientific Discovery
 
 ![Workshop Banner](assets/images/banner.jpg)
 
 ## Objective
-Brief description of the workshop's goals and purpose.
+This workshop will explore the use of alternative representations, such as Kolmogorov-Arnold Networks (KANs), for scientific and engineering applications, emphasizing the synergy between KAN representation, symbolic regression, and forward/inverse problem solving. We will focus on applications in molecular sciences (materials, proteins, protein-ligand interactions), geometrical representation (e.g., point-cloud prediction), PDE, and world model systems (e.g., reinforcement learning world models).
 
 ## Scope
-Details about the topics covered and target audience.
+The scope includes theory, algorithms, applications, and tools. Suggested topics include, but are not limited to:
+- **Neural Representations**: Learning with KANs, radial basis expansion, adaptive kernel methods, smooth function approximation.
+- **Symbolic and Sparse Regression**: Integration of symbolic priors, sparsity-aware KAN training, differentiable symbolic discovery.
+- **Molecular and Materials Applications**: Protein structure-function relationships, protein-protein and protein-ligand modeling, cloud point estimation.
+- **Inverse Problems and World Understanding**: Solving ill-posed problems using structured priors, interpretable surrogates for simulation, knowledge-grounded modeling.
+- **Comparison with Neural Operators and GNNs**: Benchmarking KANs on PDEs, graph-structured data, and operator learning tasks.
+- **Theory, Expressivity, and Robustness**: Generalization of KAT perspectives, KAT complexity control, information bottlenecks in KANs.
+
 
 ## Schedule
 
@@ -36,8 +43,11 @@ Details about the topics covered and target audience.
 - [Paper Title 2](link) by Author 1, Author 2
 
 ## Organizers
-- Organizer 1 (Affiliation)
-- Organizer 2 (Affiliation)
+- Jana Doppa (Washington State University)
+- Francesco Alesiani (NEC Labs Europe)
+- Yixuan (Roy) Wang (California Institute of Technology)
+- Xiaoyi Jiang (University of Münster)
+- Matthias Wolff (University of Münster)
 
 ## Contact
 Email: workshop@email.com

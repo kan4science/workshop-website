@@ -1,5 +1,8 @@
 title: Workshop Title
 description: Description of your workshop
-theme: minima
+# theme: minima
+# theme: jekyll-theme-minimal
+# remote_theme: THEME-NAME
+theme: jekyll-theme-Midnight
 plugins:
   - jekyll-feed

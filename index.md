@@ -50,5 +50,5 @@ The scope includes theory, algorithms, applications, and tools. Suggested topics
 - Matthias Wolff (University of Münster)
 
 ## Contact
-Email: kan4science@gmail.com 
+[Email](mailto:kan4science@gmail.com )
 <!-- workshop@email.com -->

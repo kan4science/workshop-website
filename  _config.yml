@@ -1,0 +1,5 @@
+title: Workshop Title
+description: Description of your workshop
+theme: minima
+plugins:
+  - jekyll-feed

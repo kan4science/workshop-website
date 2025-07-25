@@ -5,7 +5,7 @@ title: Workshop Title
 
 # Workshop Title
 
-![Workshop Banner](assets/images/banner.jpg)
+![Workshop Banner](assets/images/banner.png)
 
 ## Objective
 Brief description of the workshop's goals and purpose.

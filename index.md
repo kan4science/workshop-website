@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Workshop Title
+title:  Kolmogorov-Arnold Networks for Scientific Discovery
 ---
 
 # Workshop Title
 
-![Workshop Banner](assets/images/banner.png)
+![Workshop Banner](assets/images/banner.jpg)
 
 ## Objective
 Brief description of the workshop's goals and purpose.
